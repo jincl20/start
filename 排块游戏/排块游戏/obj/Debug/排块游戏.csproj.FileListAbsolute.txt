@@ -1,0 +1,10 @@
+C:\Users\one\source\repos\排块游戏\排块游戏\bin\Debug\排块游戏.exe.config
+C:\Users\one\source\repos\排块游戏\排块游戏\bin\Debug\排块游戏.exe
+C:\Users\one\source\repos\排块游戏\排块游戏\bin\Debug\排块游戏.pdb
+C:\Users\one\source\repos\排块游戏\排块游戏\obj\Debug\排块游戏.csprojAssemblyReference.cache
+C:\Users\one\source\repos\排块游戏\排块游戏\obj\Debug\排块游戏.Properties.Resources.resources
+C:\Users\one\source\repos\排块游戏\排块游戏\obj\Debug\排块游戏.csproj.GenerateResource.cache
+C:\Users\one\source\repos\排块游戏\排块游戏\obj\Debug\排块游戏.csproj.CoreCompileInputs.cache
+C:\Users\one\source\repos\排块游戏\排块游戏\obj\Debug\排块游戏.exe
+C:\Users\one\source\repos\排块游戏\排块游戏\obj\Debug\排块游戏.pdb
+C:\Users\one\source\repos\排块游戏\排块游戏\obj\Debug\排块游戏.排块游戏.resources
